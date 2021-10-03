@@ -17,6 +17,8 @@ know whether this package might be useful for them.
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
+Dynamic theme so that theme can be changed on runtime
+Changed theme will be saved and will applied on next run
 
 ## Getting started
 
